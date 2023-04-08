@@ -36,7 +36,7 @@ A hybrid navigation algorithm that combines the path planning of RRT and reactiv
 ![image](https://user-images.githubusercontent.com/32180331/230537421-b56b44c2-9284-4b9f-87b4-fc346bf9c3f3.png)
 
 ## Lectures
-If you would like to an in-depth understanding of each algorithm, check out my video explanations (they're in Portuguese, sorry!):
+If you would like to an in-depth understanding of each algorithm, check out my video explanations (they're in Portuguese):
 - [Navigation and Planning](https://youtu.be/AeXQfEIXQcg)
 - [Occupancy Grid Mapping](https://youtu.be/uUqiVMOrajU)
 - [Reactive RRT](https://youtu.be/gyzC2T0Ec0A)
